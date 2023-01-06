@@ -1,5 +1,5 @@
 /*
-  Passes 75/79 test cases, require knowledge of Hashmaps
+  Passes 75/79 test cases, require knowledge of Hashmaps to solve completely
 */
 
 class Solution {
@@ -94,7 +94,7 @@ public:
 };
 
 /*
-Passes All Test Cases
+Passes All Test Cases, Brute force
 */
 class Solution {
 public:
