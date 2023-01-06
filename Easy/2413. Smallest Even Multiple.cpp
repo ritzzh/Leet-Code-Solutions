@@ -1,3 +1,7 @@
+/*
+Faster Method
+*/
+
 class Solution {
 public:
     int smallestEvenMultiple(int n) {
@@ -10,5 +14,18 @@ public:
             }
         }
         return n;
+    }
+};
+
+/*
+Simpler Method
+*/
+class Solution {
+public:
+    int smallestEvenMultiple(int n) {
+        if(n/2==00
+           return n;
+        else
+           return n*2;
     }
 };
