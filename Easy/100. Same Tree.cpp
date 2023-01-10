@@ -21,9 +21,7 @@ public:
         {
             
             traverseinorder(x->left, xy);
-            
             xy.push_back(x->val);
-            
             traverseinorder(x->right, xy);
             xy.push_back(-1);
                         
