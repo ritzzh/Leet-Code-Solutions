@@ -21,8 +21,7 @@ public:
             else 
             {
                 count=0;
-            } 
-            
+            }
         }
         return max+1;
     }
